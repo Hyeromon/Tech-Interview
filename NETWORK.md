@@ -11,10 +11,10 @@
 11. [3-Way Handshake & 4-Way Handshake에 대해 설명해 주세요.](https://hyeromon.tistory.com/92)
 13. [www.github.com을 브라우저에 입력하고 엔터를 쳤을 때, 네트워크 상 어떤 일이 일어나는지 최대한 자세하게 설명해 주세요.](https://hyeromon.tistory.com/91)
 14. [DNS에 대해 설명해 주세요.](https://hyeromon.tistory.com/93)
-15. SOP 정책에 대해 설명해 주세요.
+15. [SOP 정책에 대해 설명해 주세요.](https://hyeromon.tistory.com/97)
 16. Stateless와 Connectionless에 대해 설명해 주세요.
 17. 라우터 내의 포워딩 과정에 대해 설명해 주세요.
 18. [로드밸런서가 무엇인가요?](https://hyeromon.tistory.com/94)
-19. 서브넷 마스크와, 게이트웨이에 대해 설명해 주세요.
+19. [서브넷 마스크와, 게이트웨이에 대해 설명해 주세요.](https://hyeromon.tistory.com/95)
 20. 멀티플렉싱과 디멀티플렉싱에 대해 설명해 주세요.
-21. XSS에 대해서 설명해 주세요.
+21. [XSS에 대해서 설명해 주세요.](https://hyeromon.tistory.com/96)
